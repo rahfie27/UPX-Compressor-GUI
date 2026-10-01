@@ -1,3 +1,5 @@
+<img src="https://www.upload.ee/image/19807456/2026-10-02_031006.png" border="0" alt="2026-10-02_031006.png" />
+
 # UPX Compressor GUI
 
 A Windows-focused PyQt5 GUI for compressing and decompressing executable files with UPX.
